@@ -405,7 +405,7 @@ MonoBehaviour:
   target: {fileID: 0}
   patrolPoints:
   - {fileID: 0}
-  health: 40
+  health: 20
   isDead: 0
   myTeam: 1
   targetTeam: 0
@@ -414,6 +414,7 @@ MonoBehaviour:
   waypointTolerance: 1
   idleAtWaypointSeconds: 1
   attackCooldown: 1.5
+  unitCounter: {fileID: 0}
 --- !u!114 &2883497542554870623
 MonoBehaviour:
   m_ObjectHideFlags: 0
